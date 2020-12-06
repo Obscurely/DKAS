@@ -8,6 +8,7 @@
     - Install selenium using this pip command: pip3 install selenium
     - Install pynput using this pip command: pip3 install pynput
     - Download the firefox geckodriver (from: https://github.com/mozilla/geckodriver/releases) and put it in C:\WebDriver\bin
+    - Execute this command: setx /m path "%path%;C:\WebDriver\bin\"
 <br />   
 <br />
 
