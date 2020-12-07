@@ -70,7 +70,7 @@ def kill_switch():
 #Adds User to call
 def add_switch():
     try:
-        bAdd = driver.find_element_by_xpath('/html/body/div/div[2]/div/div[2]/div/div/div/div[2]/div[2]/section/div[2]/div[4]')
+        bAdd = driver.find_element_by_xpath('/html/body/div/div[2]/div/div[2]/div/div/div/div[2]/div[2]/div[1]/div/div[2]/div[1]/div/div[1]/section/div[2]/div[3]')
         bAdd.click()
         bSearchBar = driver.find_element_by_xpath('/html/body/div/div[6]/div/div/div/div/div[1]/div[2]/div[1]/div/input')
         bSearchBar.send_keys(user)
