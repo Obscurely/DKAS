@@ -2,8 +2,10 @@ from selenium.webdriver import Firefox #Selenium Driver to launch Browser
 from selenium.webdriver.common.by import By #Selenium "By" funtion for searching elements
 from selenium import webdriver #For complex actions such as contex-clicking
 from pynput.keyboard import HotKey, Key, KeyCode, Listener #For Hotkeys 
-from colorama import Fore, Back #For colored text
+from colorama import init ,Fore, Back #For colored text
 import time #For delays
+
+init(convert=True) #So the text appears colored in cmd
 
 """
     Discord_Kill_Add_SWITCH or DKAS for short is a FOSS made for kicking or adding a user in a discord group
