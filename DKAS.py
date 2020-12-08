@@ -5,7 +5,7 @@ from pynput.keyboard import HotKey, Key, KeyCode, Listener #For Hotkeys
 from colorama import init ,Fore, Back #For colored text
 import time #For delays
 
-init(convert=True) #So the text appears colored in cmd
+init(convert=True) #So the text appears colored in cmd too
 
 """
     Discord_Kill_Add_SWITCH or DKAS for short is a FOSS made for kicking or adding a user in a discord group
