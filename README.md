@@ -17,6 +17,7 @@ Discord_Kill_Add_SWITCH or DKAS for short is quite a simple program made in pyth
     - Install pynput using this pip command: pip3 install pynput
     - Download the firefox geckodriver (from: https://github.com/mozilla/geckodriver/releases) and put it in C:\WebDriver\bin
     - Execute this command: setx /m path "%path%;C:\WebDriver\bin\". If this does not work than do this: 1.Right click "This PC" and click properties. | 2.In the left column click "Adveanced system settings" | 3.Click down the promp on "Environment variables" | 4.Click on "Path" in the top box | 5.Press on edit | 6.On the next prompt press new and paste this: C:\WebDriver\bin\ | 7.Now click "Ok", "Ok" and exit out
+    - Restart computer! (may work without but just in case)
    
 
 
