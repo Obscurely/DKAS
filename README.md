@@ -9,7 +9,7 @@ Discord_Kill_Add_SWITCH or DKAS for short is quite a simple program made in pyth
 
 ### For the Release Version:
  * Simply double click on **Auto Pre Requirements.exe** do what the program asks, restart computer, than double click on DKAS.py (if windows prompts you with **What do you want to open this with** select python). If having problems read **How to Run the Program**
-  --------------
+
 
   ### For the master branch version:
     - Install python 3.x from the offcial site: https://www.python.org/
