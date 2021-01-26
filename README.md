@@ -49,5 +49,4 @@ Discord_Kill_Add_SWITCH or DKAS for short is quite a simple program made in pyth
 >I am open to any feature request just ask me ofr it and i will try my best to implement it if it's worth doing so.
     
 ## If you want to use my work:
-
->You are free to use my work as long as you credit me and link the github post.
+Just stick to the license conditions: Your program has to be open source, credit me, use the same license and state any changes.
